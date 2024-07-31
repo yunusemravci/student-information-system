@@ -1,2 +1,2 @@
 # student-information-system
-Student Information System using C
+Student Information System with C
